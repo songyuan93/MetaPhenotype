@@ -9,7 +9,7 @@ The input data were included in the Input data folder which named dataset.csv
 
 ### Running the model
 Using our dataset to run the MetaPhenotype model.
-'''
+```
 python base.py
-'''
+```
 dataloade.py file will read dataset.csv file.
