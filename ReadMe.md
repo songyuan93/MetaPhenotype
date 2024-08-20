@@ -8,7 +8,7 @@ Single-cell mass spectrometry (SCMS) is an emerging tool for studying cell heter
 The input data were included in the Input data folder which named dataset.csv
 
 ### Running the model
-Using our dataset to run the MetaPhenotype model.
+Using single cell mass spec dataset to run the MetaPhenotype model.
 ```
 python base.py
 ```
