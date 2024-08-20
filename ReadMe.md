@@ -12,5 +12,5 @@ Using single cell mass spec dataset to run the MetaPhenotype model.
 ```
 python base.py
 ```
-** dataloade.py file will read dataset.csv file.
-** The code for MetaPhenotype model were included in meta.py file.
+* dataloade.py file will read dataset.csv file.
+* The code for MetaPhenotype model were included in meta.py file.
